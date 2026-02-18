@@ -1,0 +1,6 @@
+export EDITOR=nvim
+
+alias vi=nvim
+alias vim=nvim
+
+alias dotfiles='/usr/bin/git --git-dir="$HOME/.local/dotfiles/" --work-tree="$HOME"'
